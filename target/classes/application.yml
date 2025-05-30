@@ -3,12 +3,12 @@ server:
 
 spring:
     datasource:
-        url: ${SPRING_DATASOURCE_URL}
-        username: ${SPRING_DATASOURCE_USERNAME}
-        password: ${SPRING_DATASOURCE_PASSWORD}
-       # url: jdbc:postgresql://ep-odd-sun-a56iuqcm-pooler.us-east-2.aws.neon.tech/db_prs1?sslmode=require
-        #username: db_prs1_owner
-        #password: npg_1sQejrO2hupA
+        #url: ${SPRING_DATASOURCE_URL}
+        #username: ${SPRING_DATASOURCE_USERNAME}
+        #password: ${SPRING_DATASOURCE_PASSWORD}
+        url: jdbc:postgresql://ep-odd-sun-a56iuqcm-pooler.us-east-2.aws.neon.tech/db_prs1?sslmode=require
+        username: db_prs1_owner
+        password: npg_1sQejrO2hupA
         driver-class-name: org.postgresql.Driver
 
         hikari:
