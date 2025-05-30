@@ -9,4 +9,7 @@ import java.util.List;
 public interface FamilyService {
     List<Family> obtenerTodasLasFamilies();
     Family obtenerFamilyPorId(Long id);
+    Family guardarFamily(Family family);
+    Family restoreFamily(Long id);
+    void eliminarFamily(Long id);
 }
