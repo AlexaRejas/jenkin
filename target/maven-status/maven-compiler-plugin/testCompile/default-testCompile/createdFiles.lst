@@ -1,2 +1,8 @@
-pe/edu/vallegrande/tranformacion/GoalControllerTest.class
+pe/edu/vallegrande/tranformacion/controller/SessionControllerTest.class
+pe/edu/vallegrande/tranformacion/controller/TransformationControllerTest.class
+pe/edu/vallegrande/tranformacion/service/Impl/GoalServiceImplTest.class
 pe/edu/vallegrande/tranformacion/TranformacionApplicationTests.class
+pe/edu/vallegrande/tranformacion/service/Impl/TransformationServiceImplTest.class
+pe/edu/vallegrande/tranformacion/controller/GoalControllerTest.class
+pe/edu/vallegrande/tranformacion/service/Impl/SessionServiceImplTest.class
+pe/edu/vallegrande/tranformacion/GoalControllerTest.class

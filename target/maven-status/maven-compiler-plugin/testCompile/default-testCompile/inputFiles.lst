@@ -1,2 +1,8 @@
+/workspaces/jenkin/src/test/java/pe/edu/vallegrande/tranformacion/service/SessionServiceImplTest.java
 /workspaces/jenkin/src/test/java/pe/edu/vallegrande/tranformacion/TranformacionApplicationTests.java
 /workspaces/jenkin/src/test/java/pe/edu/vallegrande/tranformacion/GoalControllerTest.java
+/workspaces/jenkin/src/test/java/pe/edu/vallegrande/tranformacion/service/GoalServiceImplTest.java
+/workspaces/jenkin/src/test/java/pe/edu/vallegrande/tranformacion/service/TransformationServiceImplTest.java
+/workspaces/jenkin/src/test/java/pe/edu/vallegrande/tranformacion/controller/TransformationControllerTest.java
+/workspaces/jenkin/src/test/java/pe/edu/vallegrande/tranformacion/controller/SessionControllerTest.java
+/workspaces/jenkin/src/test/java/pe/edu/vallegrande/tranformacion/controller/GoalControllerTest.java
